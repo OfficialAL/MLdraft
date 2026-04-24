@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLdraft — Drafting assistant (MLOps project)
 
 This repository contains the MLOps drafting assistant and Streamlit GUI used for the course final assignment.
@@ -74,3 +75,6 @@ Contact / author
 
 --
 Generated on Apr 14, 2026
+=======
+# MLdraft
+>>>>>>> origin/main
