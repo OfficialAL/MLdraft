@@ -1,0 +1,10 @@
+Rekkles
+Caps
+Perkz
+Nisqy
+Hylissang
+OfficialAL
+
+# Replace the above with actual EUW summoner names you want to seed collection with.
+# One name per line. Save and then run the ID collector:
+# python -m Winrate_Prediction.src.collect_ids_multi --summoner-file seeds.txt --out match_ids.txt --target 2000 --workers 6

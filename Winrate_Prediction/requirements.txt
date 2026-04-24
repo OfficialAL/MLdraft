@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pandas
+pyarrow
+scikit-learn
+xgboost
+lightgbm
+shap

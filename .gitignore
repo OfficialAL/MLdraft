@@ -1,0 +1,43 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.db
+.DS_Store
+.vscode/
+data/
+models/
+Winrate_Prediction/data/
+Final Assignment Report/*.docx
+*.log
+*.sqlite
+*.ipynb_checkpoints/
+*.png
+*.svg
+env/
+node_modules/# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+Winrate_Prediction/.venv/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and large generated assets (keep in backups/)
+Winrate_Prediction/data/raw/*.parquet
+Winrate_Prediction/data/processed/*.parquet
+Winrate_Prediction/analysis_outputs/*.pkl
+models/*.pkl
+
+# Backups directory
+backups/
