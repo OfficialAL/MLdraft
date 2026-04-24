@@ -38,6 +38,7 @@ Winrate_Prediction/data/raw/*.parquet
 Winrate_Prediction/data/processed/*.parquet
 Winrate_Prediction/analysis_outputs/*.pkl
 models/*.pkl
+Winrate_Prediction/.env
 
 # Backups directory
 backups/
